@@ -1,4 +1,8 @@
-# DIO - Trilha Java Básico
+# Solução
+
+A solução encontra-se disponível na classe Contador.java
+
+## DIO - Trilha Java Básico
 www.dio.me
 
 #### Autores
